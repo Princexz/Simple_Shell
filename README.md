@@ -1,4 +1,4 @@
-# Prince Solomon and  Thulile Makhubela Makhubela
+# Prince Solomon and Thulile Makhubela Makhubela
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
@@ -44,7 +44,7 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-### AUTHORS :nib_black:
+### AUTHORS ✒️
 
 All code written by [princexz](https://github.com/princexz) and [Thulile](https://github.com/Thulile).
 
