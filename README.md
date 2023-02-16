@@ -50,7 +50,7 @@ All code written by [princexz](https://github.com/princexz) and [Thulile](https:
 
 
 
-# simple_shell
+## simple_shell
 A project to wrap up sprint 1 of Alx SE program. Done by by two persons
 he Shell
 Material by Milad Fatenejad, Sasha Wood, Radhika Khetani and Karin Lagesen
