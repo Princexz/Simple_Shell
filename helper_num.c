@@ -83,4 +83,4 @@ int count_characters(char *string, char *character)
 			counter++;
 	}
 	return (counter);
-}
+} /** prince Solomon */
